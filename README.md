@@ -1,5 +1,6 @@
-# Smart Soap Dispenser IoT Solution 🧴🔗
+# Smart Soap Monitor - IoT Solution 🧴🔗
 Un proyecto innovador para mejorar la higiene y optimizar el mantenimiento en instituciones educativas.
+
 
 ## 📋 Descripción del Proyecto
 Este proyecto IoT está diseñado para monitorear en tiempo real el nivel de jabón en los dispensadores de una institución educativa. Al combinar sensores ultrasónicos, microcontroladores y una Raspberry Pi, la solución envía alertas al personal de aseo mediante un bot de Telegram cuando los niveles de jabón son bajos o críticos.
