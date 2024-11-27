@@ -1,4 +1,5 @@
 # Smart Soap Dispenser IoT Solution 🧴🔗
+
 Un proyecto innovador para mejorar la higiene y optimizar el mantenimiento en instituciones educativas.
 ---
 ## 📋 Descripción del Proyecto
